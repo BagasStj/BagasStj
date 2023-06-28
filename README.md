@@ -12,7 +12,7 @@
 
 ## Work Experience:
 #### 1. [PT. Braincode Solution](https://www.braincodesolution.com/services) | FrontEnd Developer | Jakarta `July'2022 - Now`
-   - Create UI Knowledge Base , Dashboard Availability (Telkomsel Project)
+   - Create UI Knowledge Base  (Telkomsel Project)
    - Create Dahsboard Problem (Telkomsel Project)
    - Create Dashboard Availability (Telkomsel Project)
 
