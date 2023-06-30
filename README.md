@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently working as FrontEnd Developer
 - 🌱 I’m currently learning Angular and Flutter
-- 📫 How to reach me: stjbagas28@gmail.com
+- 📫 My email: stjbagas28@gmail.com
 
 ## Education:
 
