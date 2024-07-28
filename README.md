@@ -1,7 +1,7 @@
 # Hi there, I'm Bagas 👋
 ## About me:
 - 🔭 I’m currently working as FrontEnd Developer
-- 🌱 I’m currently learning Angular, Flutter & SolidJs
+- 🌱 I’m currently learning Angular, Flutter ,SolidJs , Nextjs
 - 📫 My email: stjbagas28@gmail.com
 
 ## Education:
@@ -12,9 +12,13 @@
 
 ## Work Experience:
 #### 1. [PT. Braincode Solution](https://www.braincodesolution.com/services) | FrontEnd Developer | Jakarta `July'2022 - Now`
-   - Create UI Knowledge Base  (Telkomsel Project)
-   - Create Dahsboard Problem (Telkomsel Project)
-   - Create Dashboard Availability (Telkomsel Project)
+   - INAP Project ( Telkomsel ) Frontend & Backend Dev
+      1.  Contribute to the entire software development lifecycle, ensuring efficient and high-quality processes.
+      2.  Assist in maintaining a scalable, secure technology architecture, supporting the company's growth.
+      3.  Collaborate with the tech team to address product and tech challenges, ensuring robust solutions.
+      4.  contribute to develop interactive and user friendly dashboard and ui
+      5.  create rest api with rust and postgres/clickhouse database
+   
 
 ---
 
