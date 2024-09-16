@@ -1,7 +1,7 @@
 # Hi there, I'm Bagas 👋
 ## About me:
-- 🔭 I’m currently working as FrontEnd Developer
-- 🌱 I’m currently learning Angular, Flutter ,SolidJs , Nextjs
+- 🔭 I’m currently working as FullStack Developer
+- 🌱 I’m currently learning Angular, Flutter ,SolidJs , Nextjs , AI / Machine Learning
 - 📫 My email: stjbagas28@gmail.com
 
 ## Education:
